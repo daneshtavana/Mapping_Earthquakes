@@ -12,3 +12,8 @@ To complete this project, use a URL for GeoJSON earthquake data from the USGS we
 Our approach will be to use the JavaScript and the D3.js library to retrieve the coordinates and magnitudes of the earthquakes from the GeoJSON data. I’ll use the Leaflet library to plot the data on a Mapbox map through an API request and create interactivity for the earthquake data.
 
 We'll need to set up a Mapbox account and get the API token needed to create geographical maps
+
+## Simple_Map Example
+
+### To open the index.html file in the browser:
+Open the command line and navigate to Mapping_Earthquakes/Simple_Map folder. The index.html file should be in the top-level of that folder. On the command line, type python -m http.server and press Enter. Using a web browser access http://localhost:8000/
